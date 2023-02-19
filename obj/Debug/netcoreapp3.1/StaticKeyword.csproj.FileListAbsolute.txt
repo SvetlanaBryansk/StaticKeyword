@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.exe
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.deps.json
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.json
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.dev.json
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.pdb
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfo.cs
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.pdb
+C:\Users\1\Desktop\C#\Основы\12\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.genruntimeconfig.cache
